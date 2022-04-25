@@ -4,14 +4,15 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Roboto';
 }
 
 .header {
-    font-family: 'Roboto';
     font-size: 24px;
     color: #F9FAF8;
 }
 
 .herohead {
-
+font-size: 18px;
+color: #E5E7EB;
 }
