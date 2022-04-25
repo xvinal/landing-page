@@ -12,11 +12,17 @@
     color: #F9FAF8;
 }
 
-.headerlink {
+.headerlink, .secondary {
 font-size: 18px;
 color: #E5E7EB;
 }
 
 .hero {
     background-color: #1F2937;
+}
+
+.main {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
 }
