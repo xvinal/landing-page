@@ -12,9 +12,14 @@
     color: #F9FAF8;
 }
 
-.headerlink, .secondary {
+.headerlink, .secondary{
 font-size: 18px;
 color: #E5E7EB;
+}
+
+.caption {
+    font-size: 12px;
+    color:#6e7b8d;
 }
 
 .hero {
