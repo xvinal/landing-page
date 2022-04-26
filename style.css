@@ -22,7 +22,7 @@ color: #E5E7EB;
     color:#6e7b8d;
 }
 
-.hero {
+.hero, footer {
     background-color: #1F2937;
 }
 
@@ -52,5 +52,9 @@ color: #E5E7EB;
 
 button {
     background-color: #3882F6;
+    color: #ffffff;
+}
+
+footer {
     color: #ffffff;
 }
