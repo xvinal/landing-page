@@ -40,6 +40,17 @@ color: #E5E7EB;
 
 .quote {
     background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+}
+
+.namequote {
+    font-size: 24px;
+}
+
+button {
+    background-color: #3882F6;
+    color: #ffffff;
 }
