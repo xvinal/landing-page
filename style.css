@@ -13,11 +13,19 @@
     font-weight: 800;
     color: #F9FAF8;
     display: flex;
+    /*Spacing of top right header title */
     justify-content: space-between;
     align-items: center;
     padding: 20px 200px 0px;
 
 }
+
+.main {
+    padding: 120px 0px 120px 120px;
+    display: block;
+    width: 900px;
+}
+
 
 .headerlink a {
     padding-right: 50px;
@@ -31,9 +39,10 @@
 }
 
 .headerlink, .secondary{
-font-size: 18px;
-color: #E5E7EB;
+    font-size: 18px;
+    color: #E5E7EB;
 }
+
 
 .caption {
     font-size: 12px;
@@ -70,6 +79,10 @@ color: #E5E7EB;
 
 button {
     background-color: #3882F6;
+    font-weight: 800;
+    border-radius: 10%;
+    border: 0;
+    padding: 5px 15px 5px 15px;
 }
 
 footer, h3, button, .signup{
