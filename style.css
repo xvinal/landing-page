@@ -6,7 +6,7 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
-    /*border: 2px solid red;*/
+    border: 2px solid red;
 }
 
 .header {
@@ -40,6 +40,10 @@
     vertical-align: middle;
 }
 
+.herosign {
+    margin-top: 10px;
+}
+
 .headerlink a {
     padding-right: 50px;
     display: flex;
@@ -56,6 +60,12 @@
     color: #E5E7EB;
 }
 
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0px 40px 0px;
+}
 
 .caption {
     font-size: 12px;
