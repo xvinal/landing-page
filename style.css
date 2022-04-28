@@ -6,7 +6,7 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
-    border: 2px solid red;
+    /*border: 2px solid red;*/
 }
 
 .header {
@@ -33,12 +33,18 @@
     vertical-align: middle;
 }
 
-.bigimg {
+iframe {
+    display: inline-block;
+    width: 900px;
+    height: 517px;
+    vertical-align: middle;
+}
+/*.bigimg {
     display: inline-block;
     width: 900px;
     height: auto;
     vertical-align: middle;
-}
+}*/
 
 .herosign {
     margin-top: 10px;
