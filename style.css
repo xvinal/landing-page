@@ -6,7 +6,7 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
-    border: 2px solid red;
+    /*border: 2px solid red;*/
 }
 
 .header {
@@ -17,16 +17,28 @@
     /*Spacing of top right header title */
     justify-content: space-between;
     align-items: center;
-    padding: 20px 200px 0px;
+    padding: 20px 60px 60px 100px;
 
+}
+
+.hero {
+    padding-bottom: 150px;
 }
 
 .main {
-    padding: 120px 0px 120px 120px;
-    display: block;
+    padding: 80px 120px 120px 100px;
+    display: inline-block;
     width: 900px;
+    height: auto;
+    vertical-align: middle;
 }
 
+.bigimg {
+    display: inline-block;
+    width: 900px;
+    height: auto;
+    vertical-align: middle;
+}
 
 .headerlink a {
     padding-right: 50px;
