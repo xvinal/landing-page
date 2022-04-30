@@ -75,7 +75,14 @@ h2 {
 
 .caption {
     font-size: 12px;
-    color:#6e7b8d;
+    color:#2b1212;
+    display: flex;
+    justify-content: space-around;
+}
+
+.figimg {
+    width: 200px;
+    height: 200px;
 }
 
 .hero, footer {
@@ -117,3 +124,4 @@ button {
 footer, h3, button, .signup{
     color: #ffffff;
 }
+
